@@ -1,0 +1,23 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status , #num, #gibi
+{
+font-size: 18px;
+}
+body{
+background-size: cover;
+background-position: center;
+}
+canvas{
+border-radius:20px;
+box-shadow: 10px 10px 10px purple;
+border: 7px black;
+margin-top: 30px;
+}
+
